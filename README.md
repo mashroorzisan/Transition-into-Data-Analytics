@@ -1,4 +1,4 @@
-# How I Transition into Data Analytics (Self-Study Route)
+# How to Transit into Data Analytics (Self-Study Route)
 
 Hello, I'm Katie and I'm sharing with you my personal experience and approach to self-studying for data analytics. 
 
